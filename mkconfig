@@ -1,0 +1,5 @@
+<$MKINCDIR/config
+INCS = -I$INCDIR
+PROGNAME = nils
+CFILES = main.c
+
